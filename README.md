@@ -20,4 +20,29 @@ Jouranal Saas allows users to securely create, manage, edit and organize their p
 -Birth Date
 -Account Status
 
+### Joural Manangement
 
+-Create new jornal entries
+-Edit journal entries
+-View journal details
+-Delete journal entries
+-Soft delete system
+-journal date
+-Create date
+-updated date
+-Mod tracking
+-Character Counter
+
+## Mood Tracking
+
+Users can select their mood when creating a journal.
+
+Avalable moods:
+
+Happy
+Sad
+Neural
+Excited
+Streed
+
+Tag System
